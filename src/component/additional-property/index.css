@@ -1,0 +1,5 @@
+.additional__property {
+	display: flex;
+	flex-direction: column;
+	gap: 24px;
+}

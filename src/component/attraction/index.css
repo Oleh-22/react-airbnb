@@ -1,0 +1,16 @@
+.attraction__block {
+	display: flex;
+	flex-direction: column;
+	gap: 24px;
+}
+
+.attraction__list {
+	display: flex;
+	flex-direction: column;
+	gap: 24px;
+}
+
+.attraction__item {
+	font-size: 16px;
+	color: #000;
+}
